@@ -10,7 +10,7 @@ export const fetchPosts = () => async dispatch => {
 };
 
 export const fetchUser = id => async dispatch => {
-  const { data } = await jsonplaceholder.get(`/user/${id}`);
+  const { data } = await jsonplaceholder.get(`/users/${id}`);
 
   dispatch ({
     type: 'FETCH_USER',
