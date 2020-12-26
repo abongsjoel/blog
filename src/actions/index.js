@@ -10,22 +10,13 @@ export const fetchPosts = () => async dispatch => {
   });
 };
 
-// export const fetchUser = id => async dispatch => {
-//   const { data } = await jsonplaceholder.get(`/users/${id}`);
+export const fetchUser = id => dispatch => _fetchUser(id, dispatch);
 
-//   dispatch ({
-//     type: 'FETCH_USER',
-//     payload: data
-//   })
-// }
+const _fetchUser = _.memoize(async (id, dispatch) => {
+  const { data } = await jsonplaceholder.get(`/users/${id}`);
 
-export const fetchUser = function(id) { 
-  return _.memoize(async function(dispatch)  {
-    const { data } = await jsonplaceholder.get(`/users/${id}`);
-
-    dispatch ({
-      type: 'FETCH_USER',
-      payload: data
-    });
+  dispatch ({
+    type: 'FETCH_USER',
+    payload: data
   });
-};
+});
