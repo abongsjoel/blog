@@ -1,3 +1,46 @@
+# The Next Web Responsive
+
+> Created a simple list of blog articles using reactjs, redux, redux-thunk, axios, lodash, amongs other technologies.
+
+![screenshot](../main/screenshot.png)
+
+This is a very simple project where i practiced how to use redux and redux-thunk by displaying a basic list of placeholder blog articles. I also made use of other libraries such as axios, and lodash using the Reactjs JavaScript framework. I used the semantic-ui css library for styling.
+
+## Live Demo 
+
+- [Visit Page]()
+
+## Built With
+
+- Reactjs
+- Redux
+- Redux-thunk
+- Semantic-ui
+
+## Author
+
+👤 **Chi A. Joel**
+
+- GitHub: [@abongsjoel](https://github.com/abongsjoel)
+- Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
+- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
+
+## Acknowledgments
+
+- [Stephen Grider](https://www.udemy.com/course/react-redux/#instructor-1)
+
+
+## Show your support
+<p> Give a 
+  <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
+  if you like this project!</p>
+
+## License
+  <p>This project is <a href="../features/LICENSE">MIT</a> licensed.</p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
