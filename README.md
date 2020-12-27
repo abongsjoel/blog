@@ -8,7 +8,7 @@ This is a very simple project where i practiced how to use redux and redux-thunk
 
 ## Live Demo 
 
-- [Visit Page]()
+- [Visit Page](https://blog-6rz674fkx.vercel.app/)
 
 ## Built With
 
