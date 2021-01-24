@@ -34,7 +34,7 @@ This is a very simple project where i practiced how to use redux and redux-thunk
 Give a ⭐️ if you like this project!
 
 ## License
-  <p>This project is <a href="../features/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
 
 
 
