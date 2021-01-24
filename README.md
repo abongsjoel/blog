@@ -33,7 +33,7 @@ This is a very simple project where i practiced how to use redux and redux-thunk
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abongsjoel/freightclaims-lodgeing-form/issues).
+Feel free to check the [issues page](https://github.com/abongsjoel/blog/issues).
 
 ## Show your support
 Give a ⭐️ if you like this project!
