@@ -29,6 +29,11 @@ This is a very simple project where i practiced how to use redux and redux-thunk
 
 - [Stephen Grider](https://www.udemy.com/course/react-redux/#instructor-1)
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/freightclaims-lodgeing-form/issues).
 
 ## Show your support
 Give a ⭐️ if you like this project!
